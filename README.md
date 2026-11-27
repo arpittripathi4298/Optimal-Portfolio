@@ -26,7 +26,7 @@ The portfolio model is built using historical data from the following assets:
 4. **Optimization:** Used a non-linear solver to maximize the **Sharpe Ratio** formula:
 
    $$
-   Sharpe Ratio = frac{R_p - R_f}{\sigma_p}
+   Sharpe Ratio = frac{R_p - R_f}{$\sigma_p$}
    $$
 
    *(Where* $R_p$ *is portfolio return,* $R_f$ *is the risk-free rate, and* $\sigma_p$ *is portfolio standard deviation).*
