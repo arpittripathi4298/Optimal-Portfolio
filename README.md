@@ -43,8 +43,8 @@ Assuming a risk-free rate of **5.93%**, the optimization engine identified the m
 
 To achieve this optimal risk-adjusted return, the solver determined the following weight distribution, favoring out-performers and zeroing out under-performers:
 
-* **Bharti Airtel:** 70.91%
-* **Gold:** 29.09%
+* **Bharti Airtel:** 50%
+* **Gold:** 50%
 * **HUL:** 0%
 * **TCS:** 0%
 * **HDFC Bank:** 0%
