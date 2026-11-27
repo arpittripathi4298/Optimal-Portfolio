@@ -25,7 +25,7 @@ The portfolio model is built using historical data from the following assets:
 3. **Covariance Matrix:** Built a variance-covariance matrix to measure how these assets move relative to one another.
 4. **Optimization:** Used a non-linear solver to maximize the **Sharpe Ratio** formula:
 
-   Sharpe Ratio = {R_p - R_f}/{$\sigma_p$}
+   Sharpe Ratio = {R_p - R_f}/{*$\sigma_p$*}
 
    *(Where* $R_p$ *is portfolio return,* $R_f$ *is the risk-free rate, and* $\sigma_p$ *is portfolio standard deviation).*
 
