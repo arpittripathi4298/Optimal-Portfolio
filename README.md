@@ -31,11 +31,11 @@ The portfolio model is built using historical data from the following assets:
 
 ## 🚀 Key Findings: The Tangency Portfolio
 
-Assuming a risk-free rate of **5.93%**, the optimization engine identified the maximum Sharpe Ratio portfolio with the following characteristics based on the data in `Optimal Portfolio_2.xlsx`:
+Assuming a risk-free rate of **5.93%**, the optimization engine identified the maximum Sharpe Ratio portfolio with the following characteristics based on the data in `Optimal Portfolio.xlsx`:
 
 * **Expected Annual Return:** 26.33%
 * **Portfolio Risk (Standard Deviation):** 19.78%
-* **Maximum Sharpe Ratio:** 1.03
+* **Maximum Sharpe Ratio:** 1.29
 
 ### Optimal Asset Allocation:
 
